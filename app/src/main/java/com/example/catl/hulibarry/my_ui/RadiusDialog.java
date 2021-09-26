@@ -8,9 +8,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.TextView;
 
-import com.image.mylibrary.R;
+import com.example.catl.hulibarry.R;
 
-import static com.mylibrary.BaseAppActivity.isStrEmpty;
+import static com.example.catl.hulibarry.BaseAppActivity.isStrEmpty;
 
 /**
  * Created by HSL on 2020/12/23.
